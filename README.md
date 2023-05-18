@@ -128,3 +128,40 @@ print ("R2     :",r2_score(y_test,target_predict))
 ```
 
 # OUPUT
+
+# data.tail() :
+![1](https://github.com/Brindha77/Ex-07-Feature-Selection/assets/118889143/a0fddfcf-0993-4326-9ce2-0577e5831974)
+
+# Null values :
+![2](https://github.com/Brindha77/Ex-07-Feature-Selection/assets/118889143/bdbe30d9-31b0-4de2-9a59-e718e536fb35)
+
+# Describe :
+![3](https://github.com/Brindha77/Ex-07-Feature-Selection/assets/118889143/e4767911-8ced-498d-878b-d11b051f35f9)
+
+# Missing values :
+![4](https://github.com/Brindha77/Ex-07-Feature-Selection/assets/118889143/72c2cfbb-3fe8-491a-8bcb-5bef116e84e8)
+
+# Data after cleaning :
+![5](https://github.com/Brindha77/Ex-07-Feature-Selection/assets/118889143/3695afab-01eb-4303-b86d-3492fa3e876b)
+
+# Data on Heatmap :
+![6](https://github.com/Brindha77/Ex-07-Feature-Selection/assets/118889143/65110a72-42b5-45d4-86a6-1c58b89adfe3)
+
+# Report of (people survived & Died) :
+![7](https://github.com/Brindha77/Ex-07-Feature-Selection/assets/118889143/f11c10e2-d3a0-4f44-9a3c-1653adb95ca1)
+
+# Cleaned Null values :
+![8](https://github.com/Brindha77/Ex-07-Feature-Selection/assets/118889143/67e33a55-23fa-4f07-83e6-f1e331687f40)
+
+# Report of Survived People's Age :
+![9](https://github.com/Brindha77/Ex-07-Feature-Selection/assets/118889143/ed94547c-00c6-4b66-a281-0be1a2edbfa2)
+
+# Report of pessengers :
+![10](https://github.com/Brindha77/Ex-07-Feature-Selection/assets/118889143/edb435c5-63bf-4322-8c5d-8b3e040da349)
+
+# Report 
+![11](https://github.com/Brindha77/Ex-07-Feature-Selection/assets/118889143/2f41c1ac-d288-461e-8dee-c597fff5ca52)
+
+
+# RESULT :
+Thus, Sucessfully performed the various feature selection techniques on a given dataset.
